@@ -7,6 +7,7 @@
  * The circuit:
  * -Arduino MKRGSM1400 board
  * -Arduino MKR IMU Shield attached
+ * -Arduino MKR GPS Shield connected via I2C
  */
 
 // includes
